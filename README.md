@@ -36,6 +36,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
     - `src/app/api/generate-image/route.ts`: This is where the image generation API is implemented. Make sure to call your image generation API from Modal here
 
+## Youtube Demo
+https://youtu.be/UkbXvZoNhEw
 
 ## Learn More
 
